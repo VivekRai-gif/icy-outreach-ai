@@ -247,6 +247,7 @@ const CampaignForm = () => {
           </CardContent>
         </Card>
       </div>
+      <Footer />
     </div>
   );
 };
