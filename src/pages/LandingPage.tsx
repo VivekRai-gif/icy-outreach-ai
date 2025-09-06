@@ -22,7 +22,7 @@ const LandingPage = () => {
               <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
                 <Sparkles className="w-5 h-5 text-white" />
               </div>
-              <span className="text-2xl font-bold text-gradient">ICY</span>
+              <span className="text-2xl font-bold text-gradient">Connexus</span>
             </div>
             <Button 
               variant="outline" 
@@ -44,7 +44,7 @@ const LandingPage = () => {
             </div>
             
             <h1 className="text-6xl md:text-7xl font-bold mb-8 leading-tight">
-              <span className="text-gradient">ICY</span>
+              <span className="text-gradient">Connexus</span>
               <br />
               <span className="text-foreground">The AI Agent that Turns</span>
               <br />
@@ -52,7 +52,7 @@ const LandingPage = () => {
             </h1>
             
             <p className="text-xl text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
-              Stop wasting time on manual influencer outreach. Let ICY find perfect matches, 
+              Stop wasting time on manual influencer outreach. Let Connexus find perfect matches, 
               analyze their profiles, and craft personalized messages that actually get responses.
             </p>
             
